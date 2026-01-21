@@ -22,8 +22,7 @@ and how these structures have evolved over time.
 ---
 
 ## Data / データ
-
-**EN**  
+ 
 The analysis is based on official agricultural statistics published by the
 Ministry of Agriculture, Forestry and Fisheries (MAFF) of Japan.
 The dataset includes prefecture-level information on cultivated area,
@@ -45,12 +44,11 @@ are fully documented in the analysis notebooks.
 
 ## Methods / 分析手法
 
-**EN**
 - Python-based data preprocessing and visualization  
 - Structural comparison using cultivated area and yield per unit area  
 - Rule-based classification of regional production types  
 - Long-term comparison between 2003 and 2024
-- 
+  
 - Python を用いたデータ前処理および可視化  
 - 結果樹面積と10a当たり収量を用いた生産構造の比較  
 - ルールベースによる産地タイプの分類  
@@ -60,7 +58,6 @@ are fully documented in the analysis notebooks.
 
 ## Notebooks / ノートブック構成
 
-**EN / JP**
 - `01_data_overview.ipynb`  
   Data source description, variable definitions, and data preparation  
 
@@ -74,11 +71,9 @@ are fully documented in the analysis notebooks.
 
 ## Key Findings / 主な分析結果
 
-**EN**  
 (TBD)
 
-**JP**  
-（後述）
+ （後述）
 
 ---
 
