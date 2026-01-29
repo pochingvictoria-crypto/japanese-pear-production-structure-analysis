@@ -44,43 +44,37 @@ are fully documented in the analysis notebooks.
 
 ## Methods / 分析手法
 
-- Python-based data preprocessing and visualization  
-- Structural comparison using cultivated area and yield per unit area  
-- Rule-based classification of regional production types  
-- Long-term comparison between 2003 and 2024
+The analysis was conducted using Python and focuses on:
+- Data preprocessing and alignment for long-term comparison
+- Exploratory visualization of production structures
+- Two-dimensional analysis of cultivated area and yield per 10a
+- Quantification of structural change using a distance-based metric
   
-- Python を用いたデータ前処理および可視化  
-- 結果樹面積と10a当たり収量を用いた生産構造の比較  
-- ルールベースによる産地タイプの分類  
-- 2003年と2024年の長期比較分析  
+Pythonを用いて以下の分析を行った。
+- 長期比較を目的としたデータ前処理および整形
+- 生産構造の可視化による探索的分析
+- 結果樹面積と10a当たり収量を用いた二次元分析
+- 距離指標による生産構造変化量の定量化
+ 
 
 ---
 
-## Notebooks / ノートブック構成
+## Key Findings / 主な結果
 
-- `01_data_overview.ipynb`  
-  Data source description, variable definitions, and data preparation  
+- Japanese pear production structures exhibit an overall contraction
+  in the area–yield space between 2003 and 2024.
+- Structural changes vary across prefectures and cannot be explained
+  by a single dominant factor.
+- Evaluating cultivated area and yield per 10a jointly
+  provides a clearer understanding of long-term production change.
 
-- `02_production_structure_eda.ipynb`  
-  Exploratory analysis of production structures across prefectures  
-
-- `03_long_term_comparison.ipynb`  
-  Long-term structural comparison between 2003 and 2024  
-
----
-
-## Key Findings / 主な分析結果
-
-(TBD)
-
- （後述）
+- 日本梨生産は、2003年から2024年にかけて
+  結果樹面積と単位収量の両面で全体的な収縮傾向を示した。
+- 生産構造の変化は地域によって異なり、
+  単一の要因では説明できない。
+- 面積と単位収量を統合的に評価することで、
+  長期的な構造変化をより明確に捉えることができた。
 
 ---
 
-## Limitations / 制限事項
 
-**EN**  
-(TBD)
-
-**JP**  
-（後述）
