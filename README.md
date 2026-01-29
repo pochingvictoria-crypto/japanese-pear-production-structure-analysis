@@ -79,13 +79,11 @@ Pythonを用いて以下の分析を行った。
 
 ## Limitations / 限界
 
-**EN**  
 This study relies on aggregated prefectural statistics
 and does not account for farm-level heterogeneity.
 Additionally, the analysis focuses on selected benchmark years
 rather than full annual time series.
-
-**JP**  
+ 
 本分析は都道府県別の集計データに基づいており、
 個別経営レベルの差異は考慮していない。
 また、全期間の年次推移ではなく、
