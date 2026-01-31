@@ -91,15 +91,36 @@ Pythonを用いて以下の分析を行った。
 
 ## Limitations / 限界
 
-This study relies on aggregated prefectural statistics
-and does not account for farm-level heterogeneity.
-Additionally, the analysis focuses on selected benchmark years
-rather than full annual time series.
+This study is based on aggregated prefectural statistics and therefore
+does not account for heterogeneity at the farm or orchard level.
+In addition, the analysis focuses on selected benchmark years
+rather than full annual time series,
+which limits the ability to capture short-term fluctuations.
+
+Although harvest volume data are available,
+this study treats harvest volume as a derived outcome of cultivated area
+and yield per 10a, rather than as an independent structural dimension.
+Accordingly, the analysis focuses on the two fundamental components
+of production structure, and the results should be interpreted
+as reflecting long-term structural tendencies
+rather than detailed output dynamics.
  
 本分析は都道府県別の集計データに基づいており、
 個別経営レベルの差異は考慮していない。
 また、全期間の年次推移ではなく、
 代表年を用いた比較に限定されている。
+
+本分析は都道府県別の集計データに基づいており、
+個別経営や園地レベルの差異は考慮していない。
+また、全期間の年次推移ではなく代表年を用いた比較に限定しているため、
+短期的な変動を捉えるものではない。
+
+収穫量のデータは利用可能であるが、
+本研究では収穫量を結果樹面積および10a当たり収量から導かれる
+結果変数として位置づけ、独立した構造次元としては扱っていない。
+したがって、本分析の結果は、
+総生産量の変動ではなく、
+生産構造の長期的な傾向を示すものとして解釈されるべきである。
 
 
 
