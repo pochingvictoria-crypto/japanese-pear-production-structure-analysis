@@ -55,8 +55,20 @@ Pythonを用いて以下の分析を行った。
 - 生産構造の可視化による探索的分析
 - 結果樹面積と10a当たり収量を用いた二次元分析
 - 距離指標による生産構造変化量の定量化
- 
 
+---
+
+## Notebooks / Notebook構成
+
+- `01_data_overview.ipynb`  
+  Data structure, sources, and preprocessing
+
+- `02_production_structure_eda.ipynb`  
+  Exploratory analysis of production structures
+
+- `03_structural_change_analysis.ipynb`  
+  Long-term structural comparison between 2003 and 2024
+  
 ---
 
 ## Key Findings / 主な結果
