@@ -46,18 +46,21 @@ are fully documented in the analysis notebooks.
 
 This analysis follows a structured approach to examine long-term changes in Japanese pear production:
 
-Data preprocessing and alignment to ensure consistency for long-term comparison
-Exploratory analysis through visualization, focusing on the relationship between cultivated area and yield per 10a
-A two-dimensional analytical framework to understand production structures
-Quantification of structural change at the prefectural level using a distance-based metric
+- Data preprocessing and alignment were conducted to ensure consistency for long-term comparison  
+- Exploratory analysis was performed through visualization, focusing on the relationship between cultivated area and yield per 10a  
+- A two-dimensional analytical framework was used to understand production structures  
+- Structural changes were quantified at the prefectural level using a distance-based metric  
+
+This approach enables both visual and quantitative understanding of production structures.
 
 本分析では、日本梨生産の長期的な変化を明らかにするため、以下の手順で分析を行った。
 
-長期比較を可能にするためのデータ前処理および整形
-結果樹面積と10a当たり収量の関係に着目した可視化による探索的分析
-二次元的な分析枠組みによる生産構造の把握
-距離指標を用いて、都道府県ごとの生産構造の変化量を定量的に評価
----
+- 長期比較を可能にするためのデータ前処理および整形  
+- 結果樹面積と10a当たり収量の関係に着目した可視化による探索的分析  
+- 二次元的な分析枠組みによる生産構造の把握  
+- 距離指標を用いて、都道府県ごとの生産構造の変化量を定量的に評価  
+
+これにより、生産構造を視覚的および定量的の両面から把握することを可能とした。
 
 ## Notebooks/Notebook構成
 
