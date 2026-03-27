@@ -2,7 +2,7 @@
 # Japanese Pear Production Structure Analysis  
 日本梨生産構造分析
 
-## Overview / 概要
+## Overview/概要
 
 This project analyzes long-term changes in Japanese pear production
 by examining regional production structures using publicly available
@@ -21,7 +21,7 @@ and how these structures have evolved over time.
 
 ---
 
-## Data / データ
+## Data/データ
  
 The analysis is based on official agricultural statistics published by the
 Ministry of Agriculture, Forestry and Fisheries (MAFF) of Japan.
@@ -42,23 +42,24 @@ are fully documented in the analysis notebooks.
 
 ---
 
-## Methods / 分析手法
+## Methods/分析手法
 
-The analysis was conducted using Python and focuses on:
-- Data preprocessing and alignment for long-term comparison
-- Exploratory visualization of production structures
-- Two-dimensional analysis of cultivated area and yield per 10a
-- Quantification of structural change using a distance-based metric
-  
-Pythonを用いて以下の分析を行った。
-- 長期比較を目的としたデータ前処理および整形
-- 生産構造の可視化による探索的分析
-- 結果樹面積と10a当たり収量を用いた二次元分析
-- 距離指標による生産構造変化量の定量化
+This analysis follows a structured approach to examine long-term changes in Japanese pear production:
 
+Data preprocessing and alignment to ensure consistency for long-term comparison
+Exploratory analysis through visualization, focusing on the relationship between cultivated area and yield per 10a
+A two-dimensional analytical framework to understand production structures
+Quantification of structural change at the prefectural level using a distance-based metric
+
+本分析では、日本梨生産の長期的な変化を明らかにするため、以下の手順で分析を行った。
+
+長期比較を可能にするためのデータ前処理および整形
+結果樹面積と10a当たり収量の関係に着目した可視化による探索的分析
+二次元的な分析枠組みによる生産構造の把握
+距離指標を用いて、都道府県ごとの生産構造の変化量を定量的に評価
 ---
 
-## Notebooks / Notebook構成
+## Notebooks/Notebook構成
 
 - `01_data_overview.ipynb`  
   Data structure, sources, and preprocessing
@@ -71,7 +72,7 @@ Pythonを用いて以下の分析を行った。
   
 ---
 
-## Key Findings / 主な結果
+## Key Findings/主な結果
 
 - Japanese pear production structures exhibit an overall contraction
   in the area–yield space between 2003 and 2024.
