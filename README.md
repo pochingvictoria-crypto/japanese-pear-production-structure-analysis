@@ -1,6 +1,5 @@
 
-# Japanese Pear Production Structure Analysis  
-日本梨生産構造分析
+# Japanese Pear Production Structure Analysis/日本梨生産構造分析
 
 ## Overview/概要
 
@@ -75,56 +74,32 @@ This approach enables both visual and quantitative understanding of production s
   
 ---
 
-## Key Findings/主な結果
+## Key Findings/主な分析結果
 
-- Japanese pear production structures exhibit an overall contraction
-  in the area–yield space between 2003 and 2024.
-- Structural changes vary across prefectures and cannot be explained
-  by a single dominant factor.
-- Evaluating cultivated area and yield per 10a jointly
-  provides a clearer understanding of long-term production change.
+- Japanese pear production shows a clear decline when comparing 2003 and 2024, indicating a structural change in the industry  
+- The contraction is primarily driven by a reduction in cultivated area rather than an equivalent decline in yield per 10a  
+- Production structures vary significantly across regions, with different prefectures relying on different combinations of scale and yield  
+- Structural changes are not uniform across regions; some areas experience large reductions in scale, while others show more moderate shifts  
+- A distance-based metric reveals the magnitude of structural change at the prefectural level, enabling comparison beyond simple visual interpretation  
 
-- 日本梨生産は、2003年から2024年にかけて
-  結果樹面積と単位収量の両面で全体的な収縮傾向を示した。
-- 生産構造の変化は地域によって異なり、
-  単一の要因では説明できない。
-- 面積と単位収量を統合的に評価することで、
-  長期的な構造変化をより明確に捉えることができた。
+- 2003年と2024年を比較すると、日本梨の生産量は減少しており、産業構造に変化が生じていることが確認される  
+- この縮小は主に結果樹面積の減少によって説明され、単位収量の低下と比べて影響が大きい  
+- 生産構造は地域ごとに大きく異なり、産地によって面積と単位収量の依存関係が異なる  
+- 構造変化の進み方は一様ではなく、地域ごとに異なる変化パターンが見られる  
+- 距離指標を用いることで、都道府県ごとの構造変化の大きさを定量的に比較することが可能となった  
 
 ---
 
-## Limitations / 限界
+## Why This Matters for Agriculture Companies/農業関連企業への示唆
 
-This study is based on aggregated prefectural statistics and therefore
-does not account for heterogeneity at the farm or orchard level.
-In addition, the analysis focuses on selected benchmark years
-rather than full annual time series,
-which limits the ability to capture short-term fluctuations.
+- The decline in production is driven primarily by a reduction in cultivated area, highlighting the importance of addressing structural constraints such as labor shortages and farmland management  
+- Regional differences in production structure suggest that a one-size-fits-all approach is ineffective; strategies need to be tailored to local conditions  
+- Understanding whether production is supported by scale or yield provides a basis for targeted interventions, such as mechanization, yield improvement, or resource optimization  
+- Quantifying structural change enables companies to identify regions undergoing significant transformation, which may present risks or opportunities for investment and technological deployment  
+- A structural perspective on production helps bridge data analysis and practical decision-making in agriculture  
 
-Although harvest volume data are available,
-this study treats harvest volume as a derived outcome of cultivated area
-and yield per 10a, rather than as an independent structural dimension.
-Accordingly, the analysis focuses on the two fundamental components
-of production structure, and the results should be interpreted
-as reflecting long-term structural tendencies
-rather than detailed output dynamics.
- 
-本分析は都道府県別の集計データに基づいており、
-個別経営レベルの差異は考慮していない。
-また、全期間の年次推移ではなく、
-代表年を用いた比較に限定されている。
-
-本分析は都道府県別の集計データに基づいており、
-個別経営や園地レベルの差異は考慮していない。
-また、全期間の年次推移ではなく代表年を用いた比較に限定しているため、
-短期的な変動を捉えるものではない。
-
-収穫量のデータは利用可能であるが、
-本分析では収穫量を結果樹面積および10a当たり収量から導かれる
-結果変数として位置づけ、独立した構造次元としては扱っていない。
-したがって、本分析の結果は、
-総生産量の変動ではなく、
-生産構造の長期的な傾向を示すものとして解釈されるべきである。
-
-
-
+- 生産量の減少は主に結果樹面積の縮小によって生じており、労働力不足や農地管理といった構造的課題への対応の重要性を示している  
+- 生産構造は地域ごとに大きく異なるため、一律の施策ではなく、地域特性に応じた対応が必要である  
+- 生産が面積によって支えられているのか、単位収量によって支えられているのかを把握することで、機械化、収量改善、資源最適化などの施策設計が可能となる  
+- 構造変化の大きさを定量化することで、大きな変化が進行している地域を特定でき、投資や技術導入の機会やリスクの判断に活用できる  
+- 生産構造の視点は、データ分析と農業現場の意思決定をつなぐ基盤となる  
